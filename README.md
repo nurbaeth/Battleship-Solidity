@@ -19,7 +19,7 @@ A blockchain-based Battleship game implemented in Solidity. Players can join the
 The contract uses a 5x5 grid where each cell can have one of the following states:
 - **Empty**: No ship placed
 - **Ship**: A ship is present
-- **Hit**: A ship has been hit
+- **Hit**: A ship has been hit 
 - **Miss**: An attack missed
 
 ## Deployment
