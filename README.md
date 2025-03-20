@@ -10,7 +10,7 @@ A blockchain-based Battleship game implemented in Solidity. Players can join the
 
 ## How It Works
 1. **Players Join**: Two players join the game by calling `joinGame()`.
-2. **Ship Placement**: Each player places their ships using `placeShip(x, y)`.
+2. **Ship Placement**: Each player places their ships using `placeShip(x, y)`. 
 3. **Ready Check**: Once ships are placed, players confirm their readiness with `readyUp()`.
 4. **Turn-Based Attacks**: Players take turns attacking enemy coordinates using `attack(x, y)`.
 5. **Win Condition**: The player who destroys all enemy ships first wins.
