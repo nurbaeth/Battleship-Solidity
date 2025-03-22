@@ -15,7 +15,7 @@ A blockchain-based Battleship game implemented in Solidity. Players can join the
 4. **Turn-Based Attacks**: Players take turns attacking enemy coordinates using `attack(x, y)`.
 5. **Win Condition**: The player who destroys all enemy ships first wins.
 
-## Smart Contract Overview
+## Smart Contract Overview 
 The contract uses a 5x5 grid where each cell can have one of the following states:
 - **Empty**: No ship placed
 - **Ship**: A ship is present
