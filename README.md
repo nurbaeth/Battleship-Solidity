@@ -6,7 +6,7 @@ A blockchain-based Battleship game implemented in Solidity. Players can join the
 - **Two-player turn-based gameplay**
 - **Decentralized game logic** on the Ethereum blockchain
 - **Smart contract-enforced fairness**
-- **Fully transparent battles** 
+- **Fully transparent battles**  
 
 ## How It Works
 1. **Players Join**: Two players join the game by calling `joinGame()`.
